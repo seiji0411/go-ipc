@@ -1,4 +1,4 @@
-# GO-IPC
+# IPC with Golang
 
 Internal Process Communication with Golang
 
